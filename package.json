@@ -1,0 +1,25 @@
+{
+  "name": "future-lisp",
+  "version": "0.0.1",
+  "description": "A JS implementation of an asynchronous Lisp",
+  "main": "FutureLisp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somesocks/FutureLisp.git"
+  },
+  "author": "James L <somesocks@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somesocks/FutureLisp/issues"
+  },
+  "homepage": "https://github.com/somesocks/FutureLisp#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "bin": {
+    "fl" : "./bin/fl.js"
+  }
+}

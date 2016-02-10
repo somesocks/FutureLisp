@@ -22,5 +22,3 @@ var FutureLisp = function(lisp){
 };
 
 module.exports = FutureLisp;
-
-FutureLisp("(print (rest 10 20 30))")();
